@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDCEBE&height=300&section=header&text=nari's%20GitHub&fontSize=80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BFD7EA&height=300&section=header&text=nari's%20GitHub&fontSize=80" />
   <h2>:sparkles:Intro:sparkles:</h2>
   안녕하세요:blush: 1년차 프론트엔드 개발자 신나리입니다.
   </br></br>
