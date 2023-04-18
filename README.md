@@ -3,7 +3,7 @@
   <h2>:sparkles:Intro:sparkles:</h2>
   Hi there :wave:, I'm Nari Shin！
   </br>
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=nariri0814@gmail.com&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nariri0814@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
   </br></br>
   <h2>:star:Tech Stack:star:</h2>
   </br>
@@ -23,5 +23,5 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=VS code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 </div>
