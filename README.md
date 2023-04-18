@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=nari's%20GitHub&fontSize=80" />
   <h2>:sparkles:Intro:sparkles:</h2>
   Hi there :wave:, I'm Nari Shin！
-  </br>
+  </br></br>
   <img src="https://img.shields.io/badge/nariri0814@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
   </br></br>
   <h2>:star:Tech Stack:star:</h2>
